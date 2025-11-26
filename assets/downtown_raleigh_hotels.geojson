@@ -1,0 +1,15 @@
+{
+"type": "FeatureCollection",
+"name": "downtown_raleigh_hotels",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "id": "way/47760005", "name": "Raleigh Marriott City Center", "stars": "4.4", "website": "https://www.marriott.com/hotels/travel/rdumc-raleigh-marriott-city-center/", "avg_cost": 132 }, "geometry": { "type": "Point", "coordinates": [ -78.6399774, 35.7735436 ] } },
+{ "type": "Feature", "properties": { "id": "way/47776449", "name": "Holiday Inn Raleigh Downtown", "stars": "3.7\n", "website": "https://www.ihg.com/holidayinn/hotels/us/en/raleigh/rdusc/hoteldetail?cm_mmc=GoogleMaps-_-HI-_-US-_-RDUSC", "avg_cost": 127 }, "geometry": { "type": "Point", "coordinates": [ -78.644094, 35.7809741 ] } },
+{ "type": "Feature", "properties": { "id": "way/199739106", "name": "The Longleaf Hotel", "stars": "4.8", "website": "https://www.thelongleafhotel.com/", "avg_cost": 144 }, "geometry": { "type": "Point", "coordinates": [ -78.6425373, 35.7842455 ] } },
+{ "type": "Feature", "properties": { "id": "way/323758992", "name": "Sheraton Raleigh Hotel", "stars": "3.9", "website": "https://www.marriott.com/hotels/travel/rdusi-sheraton-raleigh-hotel/", "avg_cost": 204 }, "geometry": { "type": "Point", "coordinates": [ -78.6399002, 35.7749391 ] } },
+{ "type": "Feature", "properties": { "id": "way/368141450", "name": "Hampton Inn & Suites Raleigh Downtown", "stars": "4.1", "website": "https://www.hilton.com/en/hotels/rdudwhx-hampton-suites-raleigh-downtown/", "avg_cost": 159 }, "geometry": { "type": "Point", "coordinates": [ -78.6466997, 35.7874946 ] } },
+{ "type": "Feature", "properties": { "id": "way/674997948", "name": "Residence Inn Raleigh Downtown", "stars": "4.6", "website": "https://www.marriott.com/rdurx", "avg_cost": 195 }, "geometry": { "type": "Point", "coordinates": [ -78.6408139, 35.7726011 ] } },
+{ "type": "Feature", "properties": { "id": "way/770940248", "name": "The Casso, Raleigh, A Tribute Portfolio Hotel", "stars": "4.5", "website": "https://www.marriott.com/hotels/travel/rdutx-the-casso-raleigh-a-tribute-portfolio-hotel/", "avg_cost": 220 }, "geometry": { "type": "Point", "coordinates": [ -78.6480337, 35.7796635 ] } },
+{ "type": "Feature", "properties": { "id": "way/839764611", "name": "Guest House Raleigh", "stars": "4.9", "website": "https://www.guesthouseraleigh.com/", "avg_cost": 269 }, "geometry": { "type": "Point", "coordinates": [ -78.6337593, 35.7745831 ] } }
+]
+}
